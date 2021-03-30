@@ -7,8 +7,8 @@
 
 ### Connect with me:
 
-[<a href="https://www.linkedin.com/in/ivanov-danil/"><img align="left" alt="DanilIvanov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>]
-[<a href="https://www.instagram.com/malchishich/"><img align="left" alt="DanilIvanov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>]
+[<a href="https://www.linkedin.com/in/ivanov-danil/" target="_blank"><img align="left" alt="DanilIvanov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>]
+[<a href="https://www.instagram.com/malchishich/" target="_blank"><img align="left" alt="DanilIvanov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>]
 
 <br />
 
