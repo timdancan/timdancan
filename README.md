@@ -12,9 +12,7 @@
 
 <br />
 
-📧 Почта: *d.ivanov.for@gmail.com* 
-<br />
-🌐 Telegram: *@timdancan*
+📧 Почта: *d.ivanov.for@gmail.com* and 🌐 Telegram: *@timdancan*
 <br />
 
 ### Languages and Tools:
