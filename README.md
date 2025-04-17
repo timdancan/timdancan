@@ -1,3 +1,4 @@
+<div align="center">
 # Hey 👋, I'm Danylo
 
 ## Passionate about crafting dynamic web applications
@@ -33,3 +34,4 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</div>
